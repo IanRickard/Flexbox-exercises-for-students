@@ -1,2 +1,2 @@
-# Flexbox exercises for students
- Purple Beard Exercises in CSS
+# Flexbox Exercises for Students
+ Purple Beard CSS Training
